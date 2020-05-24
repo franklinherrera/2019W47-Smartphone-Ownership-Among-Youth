@@ -1,20 +1,18 @@
-# data-wrangling-template
-This repository contains the files that I used to gather, assess, clean, and explore the dataset about "TITLE" and produce the next visualization.
+# Visualizing Smartphone Ownership Among Youth and Teens
+This repository contains the files that I used to gather, assess, clean, and explore the dataset about Smartphone Ownership Among Youth and Teens and produce the next visualization.
 
 ## Data Visualization
-[Interactive Viz](URL)
+[Interactive Viz](https://public.tableau.com/profile/franklin.herrera#!/vizhome/2019w47-Smartphone-Ownership-Among-Youth/SmartphoneOwnership)
 
-![Viz](URL)
+![Viz](https://github.com/franklinherrera/2019w47-Smartphone-Ownership-Among-Youth/blob/master/images/new%20viz.png)
 
-## Power BI file
-[PBI FILE NAME.pbix](URL)
+## Tableau Workbook
+[2019w47-Smartphone-Ownership-Among-Youth.twbx](https://github.com/franklinherrera/2019w47-Smartphone-Ownership-Among-Youth/blob/master/2019w47-Smartphone-Ownership-Among-Youth.twbx)
 
 ## Jupyter Notebook
-[JUPYTER NOTEBOOK.ipynb](URL)
-
-![NOTEBOOKS VIZ](URL)
+[2019W47-Smartphone-Ownership-Among-Youth.ipynb](https://github.com/franklinherrera/2019w47-Smartphone-Ownership-Among-Youth/blob/master/2019W47-Smartphone-Ownership-Among-Youth.ipynb)
 
 ## Datasets
-- [DATASET NAME](URL): original dataset.
+- [Teen-Tween Smartphone Ownership](https://github.com/franklinherrera/2019w47-Smartphone-Ownership-Among-Youth/blob/master/Teen-Tween%20Smartphone%20Ownership.xlsx): original dataset.
 
-![DATASET IMAGE](URL)
+![DATASET IMAGE](https://github.com/franklinherrera/2019w47-Smartphone-Ownership-Among-Youth/blob/master/images/dataset.png)
